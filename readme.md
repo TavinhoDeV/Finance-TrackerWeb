@@ -1,6 +1,6 @@
 # 💻 Finance Tracker Web
 
-Frontend do [Finance Tracker API](https://github.com/seu-usuario/finance-tracker-api) — dashboard de finanças pessoais construído com **Next.js 14**, **TypeScript** e **Tailwind CSS**.
+Frontend do [Finance Tracker API](https://github.com/TavinhoDev/finance-tracker-api) — dashboard de finanças pessoais construído com **Next.js 14**, **TypeScript** e **Tailwind CSS**.
 
 > Parte do ecossistema Finance Tracker, que também inclui a [REST API](https://github.com/seu-usuario/finance-tracker-api) em ASP.NET Core e o [Worker Service](https://github.com/seu-usuario/finance-tracker-worker) para alertas automáticos.
 
