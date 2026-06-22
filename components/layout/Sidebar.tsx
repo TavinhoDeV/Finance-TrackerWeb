@@ -2,6 +2,7 @@
 
 import Link from "next/link"
 import { usePathname } from "next/navigation"
+import { TrendingUp } from "lucide-react"
 import {
 LayoutDashboard,
 CreditCard,
@@ -18,6 +19,7 @@ const nav = [
 { href: "/accounts", label: "Contas", icon: CreditCard },
 { href: "/transactions", label: "Transações", icon: ArrowLeftRight },
 { href: "/reports", label: "Relatórios", icon: BarChart3 },
+{ href: "/stocks", label: "Bolsa de Valores", icon: TrendingUp },
 ]
 
 export function Sidebar() {
@@ -40,9 +42,6 @@ FT
 Finance Tracker
 </p>
 
-<p className="text-xs text-slate-400">
-Premium Dashboard
-</p>
 </div>
 
 </div>

@@ -82,12 +82,12 @@ ft-web/
 ### Pré-requisitos
 
 - Node.js 18+
-- [Finance Tracker API](https://github.com/seu-usuario/finance-tracker-api) rodando em `http://localhost:5285`
+- [Finance Tracker API](https://github.com/TavinhoDev/finance-tracker-api) rodando em `http://localhost:5285`
 
 ### 1. Clone e instale
 
 ```bash
-git clone https://github.com/seu-usuario/finance-tracker-web.git
+git clone https://github.com/TavinhoDev/finance-tracker-web.git
 cd finance-tracker-web
 npm install
 ```
